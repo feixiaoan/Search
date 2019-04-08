@@ -1,4 +1,4 @@
-package search;
+
 
 public class binarySearch {
 
@@ -6,6 +6,10 @@ public class binarySearch {
 		int a[] = {0,2,3,4,5,6,7,8,10};
 		System.out.println(binarySerach(a,2));
 	}
+	/*
+	*二分查找
+	*
+	**/
 	public static int binarySerach(int []array, int a) {
 		int lo = 0;
 		int hi = array.length - 1;
