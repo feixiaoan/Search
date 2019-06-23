@@ -9,11 +9,6 @@ public class bubbleSort {
 			System.out.println(array[i]);
 		}
 	}
-	/*
-	 * √∞≈›≈≈–Ú
-	 *  ±º‰£∫2019/4/9
-	 * 
-	 */
 	public static void bubblesort(int[] array ) {
 		
 		for(int i = 0; i < array.length; i++) {
